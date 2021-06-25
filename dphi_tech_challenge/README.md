@@ -11,3 +11,4 @@ observed and derived few insights from the data such as the important feature to
 obtained Rsquared of above 90%.
 a generalised model.
 
+![capture_@](https://user-images.githubusercontent.com/40633817/123455396-466f2d00-d5ff-11eb-82ad-f5108786cecc.PNG)
